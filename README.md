@@ -1,6 +1,8 @@
 # omkar_id
 
-A new Flutter project.
+NINJA ID Stateless widget Flutter APP
+
+![NINJA APP SS](https://res.cloudinary.com/dwltrduan/image/upload/v1595613861/Screenshot_2020-07-24-23-32-35-64_5ba64902a22019daccafe0d1b7d82ce2_g30bsk.png)
 
 ## Getting Started
 
